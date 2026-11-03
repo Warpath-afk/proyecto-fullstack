@@ -19,8 +19,7 @@ Aplicación web full-stack para gestionar el catálogo de una pastelería. Los u
 
 1. Clona el repositorio:
    ```bash
-   git clone git clone [https://github.com/Warpath-afk/proyecto-fullstack.git]
-   cd proyecto-fullstack
+   git clone https://github.com/Warpath-afk/proyecto-fullstack.git   cd proyecto-fullstack
    ```
 2. Instala las dependencias del backend:
    ```bash
@@ -90,4 +89,4 @@ npm run dev
 | DELETE | `/api/pasteles/:id` | Eliminar pastel | Sí |
 
 ## Repositorio
-[https://github.com/Warpath-afk/proyecto-fullstack]
+https://github.com/Warpath-afk/proyecto-fullstack
